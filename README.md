@@ -8,5 +8,6 @@
 # How to run
 
 - Copy the `.env.sample` file to `.env`
+- `npm i`
 - Change the variables in it
 - `node .`
